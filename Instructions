@@ -1,0 +1,22 @@
+For this exercise, we want you to code a generic superclass and at least three subclasses of that superclass, each class needs to have at least 2 attributes and 2 methods. It’s easiest to simply describe a real-world object in this manner.  You need to provide a test method that shows your classes in operation.
+
+ 
+
+I would highly suggest that you look at week 8 and the final project.   You should pick a system for your week 8 project now and start building using this assignment as a base.
+
+Final Project info:
+
+Create a number of elements toward the building of one of the following systems:   Note - you won't be building the entire system - just pieces
+Leave Management System
+Hotel Management System
+Time Keeping System
+Pizza Ordering System (like Domino's online for example)
+Point of Sale System
+Backend for a Blog System
+The elements you are responsible for include:
+A minimum of 12 use cases - fully elaborated!
+A rough sketch of the UI of the system to give yourself some grounding 
+Architecture Diagram showing major systems
+Class Diagram for major classes in your system - 12-15 classes
+Create a sequence diagram for 1-3 objects that realize one of your use cases
+Python application using the 6+ major classes demonstrating the core functionality - GUIs are NOT required.
