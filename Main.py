@@ -8,7 +8,7 @@ class TimeKeeper2(NameKeeper):
         self.date = date
         self.time = time
 
-def punchOut():
+    def punchOut(self, x): # See comment on Timekeeper
         # attempting to simulate punching out by using return statement
         return "You have punched out at" + x + "time!" 
 
