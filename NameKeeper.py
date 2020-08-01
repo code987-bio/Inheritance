@@ -16,5 +16,4 @@ class NameKeeper:
         x = datetime.datetime.now()
         print(x)
     
-Namekeeper()    
-
+# Delete the call. To create a class, you should define it in your main file
